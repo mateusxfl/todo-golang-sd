@@ -1,0 +1,9 @@
+[api]
+port = "8080"
+
+[database]
+host = "db-todo"
+port = "5432"
+user = "user_todo"
+pass = "1122"
+name = "db_todo"
